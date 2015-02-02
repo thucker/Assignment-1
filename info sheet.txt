@@ -1,0 +1,59 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Tom Hucker
+
+Lecture section:  MW 6-7:15
+
+Recitation day and time:  W 7:30-8:20
+
+Assignment #: 1 
+
+Program due date:  2/1/15
+
+Handed in date:  2/1/15
+
+Source code file name(s): MyBoggle.java Trie.java SimpleDictionary.java
+ 
+
+
+
+
+
+
+Other file name(s) (if relevant):
+
+
+
+
+
+
+
+Does your program run without error?: It compiles and starts but runs into a null point exception
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?: Honestly at one point working on this assignment I had my project nearly functioning at 100% and
+I made a few changes and was left with a  null pointer exception error that I could not figure out! I can guarantee
+my search algorithm works correctly and I have both the simple and dlb versions implemented into my assignment, I just
+have this null pointer that is restricting my program from running correctly. I feel like the error is very easy to
+correct, I just can't get rid of it. I really hope partial credit is available because my algorithm is efficient and works well!
+
+
+
+
+
+
+
+Additional comments to the grader:
+
+
+
+
+
+
+
